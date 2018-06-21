@@ -1,3 +1,4 @@
+//This component simply shows the link with the external sources
 import React, { Component } from "react";
 
 class Contact extends Component {

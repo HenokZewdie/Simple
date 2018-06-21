@@ -5,7 +5,7 @@ class Stuff extends Component {
         return (
             <div>
                 <h2>Product</h2>
-                <p>We are different product Brands for a different category</p>
+                <p>We have different product Brands for a different category</p>
                 <ol>
                     <li>Kenmore</li>
                     <li>LG</li>
